@@ -1,1 +1,11 @@
 
+This folder "WFH_Revised_Reproduction_Package" replicates everything in the paper "Does working from home work: evidence from a Chinese Experiment?"
+
+The folder contains four sub-folders:
+- Data: Contains all the data sets used to replicate the tables and figures in the paper
+- Do: Contains the main do-file that creates all the tables and figures in the paper
+- Fig: Contains all the figure-outputs produced by the do-file
+- Tab: Does not contain any outputs in this version of the replication package. 
+
+General notes:
+- To run the code, set the directory to draw from the "data" folder 
